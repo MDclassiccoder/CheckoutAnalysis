@@ -1,7 +1,7 @@
 # CheckoutAnalysis
 
 This repository contains code for analyzing the checkout process of an online platform. The analysis includes detecting anomalies, calculating conversion rates, exploring correlations, and generating visualizations to gain insights into user behavior. 
-The main documentation explaining my analysis can be found in the pdf titled CheckoutAnalysis.pdf
+The main documentation explaining my analysis can be found in the pdf titled CheckoutAnalysis.pdf which can be found in data>analysis>CheckoutAnalysis.pdf
 ## Getting Started
 
 These instructions will help you set up the project on your local machine.
